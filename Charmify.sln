@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Charmify", "Charmify\Charmify.csproj", "{131AE54D-E1B3-4831-B8BA-C66F8120FF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131AE54D-E1B3-4831-B8BA-C66F8120FF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131AE54D-E1B3-4831-B8BA-C66F8120FF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131AE54D-E1B3-4831-B8BA-C66F8120FF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131AE54D-E1B3-4831-B8BA-C66F8120FF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24AF14C2-72B5-4F5A-80D0-8C1DAFBC67D2}
+	EndGlobalSection
+EndGlobal
